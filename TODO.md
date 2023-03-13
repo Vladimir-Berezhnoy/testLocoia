@@ -14,7 +14,7 @@ Possible further improvements to the architecure:
 - As a rate limiting handling, I would create lazy-loaders on each api request, which would be shown if the data
  is loading and hidden if not
 - For the app protecting need to:
-  - type all data that can be passed on the both sides(Back and Front)
+  - typify all data that can be passed on the both sides(Back and Front)
   - handle mouse events, for block the form submit spamming.
   - create requests limit on Back-End side
 - For make a sure that the app is running with the latest version of code, I can use github desktop and 
